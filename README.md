@@ -1,16 +1,16 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C7FF&width=435&lines=👋+Hi,+I'm+Ponz.;Welcome+to+my+profile!;)
 
-<!--
-**sasakifuruta/sasakifuruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sasakifuruta&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasakifuruta&layout=compact&theme=tokyonight&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![Skills](https://skillicons.dev/icons?i=python,docker,react)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/sasakifuruta/sasakifuruta/output/github-contribution-grid-snake.svg)
