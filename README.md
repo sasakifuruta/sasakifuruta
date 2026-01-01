@@ -8,11 +8,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasakifuruta&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasakifuruta&theme=tokyonight&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
-
-
-
 
 
 ### 🛠️ Tech Stack
